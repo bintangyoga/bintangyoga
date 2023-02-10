@@ -5,9 +5,6 @@
 **Hey there, welcome!**</br>
 <hp>I'm Bintang, User Interface Engineer from <img src="https://user-images.githubusercontent.com/39134128/124639115-f96c4000-deb5-11eb-94d4-4fd999c764d3.png" width="14px"/> <b>Sragen, Indonesia</b>.
   	</hp>
-<p>  <img src="https://komarev.com/ghpvc/?username=bintangyoga&color=blueviolet" alt="Bintang Yoga Pamungkas"/></p>
-
-
 
 - 🔭  I’m currently working at [Bibit.id](https://bibit.id).
 - 📖  Currently learning: ReactJS, building webview app.
