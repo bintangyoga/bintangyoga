@@ -10,7 +10,6 @@
 - 📖  Currently learning: ReactJS, building webview app.
 - 👯  I’m looking to collaborate on open-source projects.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/bintangyoga/)
-- 😄  Pronouns: He/His
 - ⚡ Fun fact: I used to be a UI/UX designer.
 
 <hr>
