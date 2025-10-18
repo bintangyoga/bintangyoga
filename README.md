@@ -6,8 +6,8 @@
 <hp>I'm Bintang, User Interface Engineer from <img src="https://user-images.githubusercontent.com/39134128/124639115-f96c4000-deb5-11eb-94d4-4fd999c764d3.png" width="14px"/> <b>Sragen, Indonesia</b>.
   	</hp>
 
-- 🔭  I’m currently working at [Bibit.id](https://bibit.id).
-- 📖  Currently learning: ReactJS, building webview app.
+- 🔭  I’m currently working at [Stockbit](https://stockbit.com/).
+- 📖  Current techstack: ReactJS, NextJS, TailwindCSS.
 - 👯  I’m looking to collaborate on open-source projects.
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/bintangyoga/)
 - ⚡ Fun fact: I used to be a UI/UX designer.
