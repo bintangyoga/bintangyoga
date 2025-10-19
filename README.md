@@ -20,8 +20,12 @@
   <img alt="Tailwind CSS" src="https://www.bintangyoga.dev/assets/badge/tailwindcss.svg" />
   <img alt=""Javascript" src="https://www.bintangyoga.dev/assets/badge/javascript.svg" />
   <img alt="GIT" src="https://www.bintangyoga.dev/assets/badge/git.svg" />
+  <img alt="Gitlab" src="https://www.bintangyoga.dev/assets/badge/gitlab.svg" />
+  <img alt="Github" src="https://www.bintangyoga.dev/assets/badge/github.svg" />
   <img alt="Visual Studio Code" src="https://www.bintangyoga.dev/assets/badge/vscode.svg" />
   <img alt=""Trae AI" src="https://www.bintangyoga.dev/assets/badge/traeai.svg" />
   <img alt="Figma" src="https://www.bintangyoga.dev/assets/badge/figma.svg" />
   <img alt="Storybook" src="https://www.bintangyoga.dev/assets/badge/storybook.svg" />
+  <img alt="Motion" src="https://www.bintangyoga.dev/assets/badge/motion.svg" />
+  <img alt="Jira" src="https://www.bintangyoga.dev/assets/badge/jira.svg" />
 </p>
